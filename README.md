@@ -5,22 +5,38 @@ This is a mini microservices project built using **Python**, **Flask**, and **Do
 ## 📁 Project Structure
 
 microservices-demo/
+
 │
+
 ├── user-service/
+
 │ ├── app.py
+
 │ ├── requirements.txt
+
 │ └── Dockerfile
+
 │
+
 ├── product-service/
+
 │ ├── app.py
+
 │ ├── requirements.txt
+
 │ └── Dockerfile
+
 │
 ├── order-service/
+
 │ ├── app.py
+
 │ ├── requirements.txt
+
 │ └── Dockerfile
+
 │
+
 └── docker-compose.yml
 
 
