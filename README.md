@@ -89,8 +89,14 @@ docker-compose up order-service
 ```
 
 ## 🛠 Technologies Used
+
 Python 3.9
+
 Flask (for API services)
+
 Docker
+
 Docker Compose
+
 RESTful APIs
+
